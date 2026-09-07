@@ -1,0 +1,2 @@
+# Line endings: these files are read by bash and node on Linux.
+* text=auto eol=lf

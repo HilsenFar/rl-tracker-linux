@@ -1,0 +1,7 @@
+node_modules/
+# Electrons egen cache/pakke-lock hoerer til maskinen, ikke repoet
+package-lock.json
+# gemte ankre (placering pr. rude) — runtime-data som overlay-glass*.json paa Windows
+overlay-glass-*.json
+out.txt
+err.txt
