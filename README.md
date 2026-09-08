@@ -1,6 +1,6 @@
 # RL Live Tracker for Linux
 
-Download: https://github.com/HilsenFar/rl-tracker-linux/releases/latest (rl-tracker-linux-2026.09.07.zip, 2 MB). The zip has the tracker and the overlay host; this repo has the host, the scripts and the docs.
+Download: https://github.com/HilsenFar/rl-tracker-linux/releases/latest (rl-tracker-linux-2026.09.08.zip, 2 MB). The zip has the tracker and the overlay host; this repo has the host, the scripts and the docs.
 
 RL Live Tracker is a free coach for Rocket League on PC. It reads the game's own local Stats API while you play, measures your habits against your own earlier matches, and coaches one focus at a time. A transparent overlay shows the current focus card and a bar over the game. The Windows version ships as a packed exe from https://gitato.net/rl-tracker/. This package is the same server run with plain Node, plus an overlay host written for Linux.
 
@@ -20,7 +20,7 @@ Verified, on Windows only: the server starts under plain Node, the Electron over
 ## Run it
 
 ```
-unzip rl-tracker-linux-2026.09.07.zip && cd rl-tracker-linux
+unzip rl-tracker-linux-2026.09.08.zip && cd rl-tracker-linux
 ./start-tracker.sh
 ./start-overlay.sh
 ```
